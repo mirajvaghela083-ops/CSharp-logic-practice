@@ -21,7 +21,8 @@ class Program
         //While14.square();
         //While15.square();
         //While16.div();
-        While17.factor();
+        //While17.factor();
+        While18.Hcf();
 
     }
 }

@@ -1,4 +1,5 @@
-﻿using DemoProject2;
+﻿using CSharpcodepractice;
+using DemoProject2;
 
 class Program
 {
@@ -21,7 +22,8 @@ class Program
         //While15.square();
         //While16.div();
         //While17.factor();
-        While18.Hcf();
+        //While18.Hcf();
+        While19.LCM();
 
     }
 }

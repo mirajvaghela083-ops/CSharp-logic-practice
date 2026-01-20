@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-// Check whether the given number is a Perfect number. number 6
+﻿// Check whether the given number is a Perfect number. number 6
 namespace DemoProject2
 {
     internal class While9
@@ -14,16 +11,16 @@ namespace DemoProject2
 
             int sum = 0;
 
-            while (i < number  )
+            while (i < number)
             {
-               if (number % i == 0)
+                if (number % i == 0)
                 {
                     sum += i;
                 }
 
-               i++;
+                i++;
             }
-           if (sum == number)
+            if (sum == number)
             {
                 Console.WriteLine("perfect");
             }

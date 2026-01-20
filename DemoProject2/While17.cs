@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics.CodeAnalysis;
-using System.Text;
-// Print all factors of the given number.
+﻿// Print all factors of the given number.
 namespace DemoProject2
 {
     internal class While17
@@ -21,16 +17,16 @@ namespace DemoProject2
             int x = 1;
             int sum = 0;
 
-            while(x <= num )
+            while (x <= num)
             {
-                if( num % x == 0 )
+                if (num % x == 0)
                 {
-                 // sum = sum + x;
+                    // sum = sum + x;
                     Console.WriteLine(x);
                 }
-             
+
                 x++;
-             
+
             }
             Console.WriteLine(sum);
         }

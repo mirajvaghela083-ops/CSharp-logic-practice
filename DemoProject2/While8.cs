@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-// check whether the given number is an armstrong number .
+﻿// check whether the given number is an armstrong number .
 namespace DemoProject2
 {
     internal class While8
@@ -40,6 +37,6 @@ namespace DemoProject2
             {
                 Console.WriteLine("it is not");
             }
-        }    
+        }
     }
 }

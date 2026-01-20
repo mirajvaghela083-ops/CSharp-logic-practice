@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-// check whether the given number is palindrome
+﻿// check whether the given number is palindrome
 
 namespace DemoProject2
 {
@@ -20,9 +17,9 @@ namespace DemoProject2
                 int number = num % 10;
                 palindrome = palindrome * 10 + number;
                 num = num / 10;
-                
+
             }
-            
+
             if (palindrome == orginal)
             {
                 Console.WriteLine("palindrome");

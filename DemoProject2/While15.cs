@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-// Print the cube of each number from 1 to n .
+﻿// Print the cube of each number from 1 to n .
 namespace DemoProject2
 {
     internal class While15

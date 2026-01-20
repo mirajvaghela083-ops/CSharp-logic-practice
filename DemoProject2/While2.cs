@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-// Calculate the sum of all even number from 1 up to n also for odd .
+﻿// Calculate the sum of all even number from 1 up to n also for odd .
 namespace DemoProject2
 {
     internal class While2
@@ -14,7 +11,8 @@ namespace DemoProject2
             int Even = 2; // int odd = 1 ;
             int Sum = 0;
 
-            while (Even <= number) {
+            while (Even <= number)
+            {
                 Sum += Even;
                 Even += 2;
             }

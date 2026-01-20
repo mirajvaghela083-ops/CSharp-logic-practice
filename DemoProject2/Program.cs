@@ -1,5 +1,4 @@
 ﻿using DemoProject2;
-using System;
 
 class Program
 {

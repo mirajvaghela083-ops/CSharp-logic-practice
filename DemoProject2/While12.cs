@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-//  Print the Fibonacci series up to n terms.
+﻿//  Print the Fibonacci series up to n terms.
 namespace DemoProject2
 {
     internal class While12
@@ -16,7 +13,7 @@ namespace DemoProject2
 
             while (count < n)
             {
-             long  next = first + second;
+                long next = first + second;
                 first = second;
                 second = next;
 

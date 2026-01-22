@@ -1,4 +1,4 @@
-﻿// Check whether the given number is a Perfect number. number 6
+﻿// Check whether the given number is a Perfect number. 
 namespace DemoProject2
 {
     internal class While9

@@ -28,7 +28,7 @@ namespace DemoProject2
                 x++;
 
             }
-            Console.WriteLine(sum);
+            //Console.WriteLine(sum);
         }
     }
 }
